@@ -1,2 +1,2 @@
-# SriLankan-Website
+# Sri-Lankan-Website
 Web development assingment 
